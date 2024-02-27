@@ -1,0 +1,41 @@
+h1, p {
+    /* J'en profite pour ajouter un commentaire sur plusieurs lignes */
+    color: blue;
+}
+
+.first-class {
+    color: #663399;
+}
+
+#logo {
+    /* Indiquez les propriétés Css ici */
+}
+
+.elem1 {
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    }
+    
+    .elem2 {
+    font-size: 1.3em;
+    font-family: 'Roboto', serif;
+    font-style: bold;
+            /* 
+            Thin
+            Extra-Light
+            Regular
+            Medium
+            SemiBold
+            Bold
+            ExtraBold/Heavy
+            Black
+             */
+    }
+    
+    .elem3 {
+    font-size: 2em;
+    font-style: italic;
+    }
+
+    
